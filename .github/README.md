@@ -1,0 +1,1 @@
+This is my personal blog. I write mainly about bitcoin and vibecoding.
